@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/manoj-portfolio/static/css/main.4315fa62.css",
+    "main.js": "/manoj-portfolio/static/js/main.6e11d466.js",
+    "static/js/787.6afee380.chunk.js": "/manoj-portfolio/static/js/787.6afee380.chunk.js",
+    "static/media/dp7.jpg": "/manoj-portfolio/static/media/dp7.9044f2be6269dca0143d.jpg",
+    "static/media/Manojkumar_FinalYearReport.pdf": "/manoj-portfolio/static/media/Manojkumar_FinalYearReport.d40b058f689dde0543a6.pdf",
+    "static/media/manoj.jpg": "/manoj-portfolio/static/media/manoj.94c3f041e325d5ac815c.jpg",
+    "static/media/dp5.jpg": "/manoj-portfolio/static/media/dp5.e4f1b74bfd96efa64fe9.jpg",
+    "static/media/room.jpg": "/manoj-portfolio/static/media/room.2864cb637c2d679cd8e9.jpg",
+    "static/media/blog-03.jpg": "/manoj-portfolio/static/media/blog-03.1bced0df5ad80f8eeb76.jpg",
+    "static/media/blog-01.jpg": "/manoj-portfolio/static/media/blog-01.67ebb920a48800aa0294.jpg",
+    "static/media/HRMS.jpg": "/manoj-portfolio/static/media/HRMS.11f0959d4d98f6bf6256.jpg",
+    "static/media/blog-02.jpg": "/manoj-portfolio/static/media/blog-02.6ecd55ed4e6547e4ca0d.jpg",
+    "index.html": "/manoj-portfolio/index.html",
+    "main.4315fa62.css.map": "/manoj-portfolio/static/css/main.4315fa62.css.map",
+    "main.6e11d466.js.map": "/manoj-portfolio/static/js/main.6e11d466.js.map",
+    "787.6afee380.chunk.js.map": "/manoj-portfolio/static/js/787.6afee380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4315fa62.css",
+    "static/js/main.6e11d466.js"
+  ]
+}
