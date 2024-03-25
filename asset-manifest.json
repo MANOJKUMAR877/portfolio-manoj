@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/manoj-portfolio/static/css/main.4315fa62.css",
-    "main.js": "/manoj-portfolio/static/js/main.6e11d466.js",
+    "main.js": "/manoj-portfolio/static/js/main.cb90166e.js",
     "static/js/787.6afee380.chunk.js": "/manoj-portfolio/static/js/787.6afee380.chunk.js",
     "static/media/dp7.jpg": "/manoj-portfolio/static/media/dp7.9044f2be6269dca0143d.jpg",
     "static/media/Manojkumar_FinalYearReport.pdf": "/manoj-portfolio/static/media/Manojkumar_FinalYearReport.d40b058f689dde0543a6.pdf",
@@ -14,11 +14,11 @@
     "static/media/blog-02.jpg": "/manoj-portfolio/static/media/blog-02.6ecd55ed4e6547e4ca0d.jpg",
     "index.html": "/manoj-portfolio/index.html",
     "main.4315fa62.css.map": "/manoj-portfolio/static/css/main.4315fa62.css.map",
-    "main.6e11d466.js.map": "/manoj-portfolio/static/js/main.6e11d466.js.map",
+    "main.cb90166e.js.map": "/manoj-portfolio/static/js/main.cb90166e.js.map",
     "787.6afee380.chunk.js.map": "/manoj-portfolio/static/js/787.6afee380.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4315fa62.css",
-    "static/js/main.6e11d466.js"
+    "static/js/main.cb90166e.js"
   ]
 }
