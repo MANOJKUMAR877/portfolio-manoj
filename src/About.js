@@ -20,25 +20,29 @@ function About() {
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                Accomplished Software Professional who is expertise in
-                Stakeholder Management, Requirements Analysis, Vendor
-                Management, Strong program and project management professional
-                with experience in Software Development Life Cycle (SDLC),
-                Process Improvement, and Project Management Office (PMO).
+                Meet Manojkumar, a passionate software developer dedicated to
+                crafting innovative solutions through code. With a keen eye for
+                detail and a creative mind, Manojkumar thrives in the dynamic
+                world of technology, where every line of code holds the
+                potential to transform ideas into reality.
               </p>
               <p className="about__text p__color">
-                Developed and delivered many responsive web applications.
-                Created reusable components in React to complete the development
-                in a short time. Break down high-level objectives into specific
-                software development tasks and follow through on their
-                execution.
+                Driven by a relentless curiosity, Manojkumar is always eager to
+                explore new technologies and methodologies, constantly seeking
+                to expand his skill set and stay at the forefront of industry
+                trends. Whether it's developing sleek web applications, building
+                robust backend systems, or diving into the intricacies of data
+                analysis, Manojkumar approaches each project with enthusiasm and
+                determination.
               </p>
               <p className="about__text p__color">
-                Ownership to develop plans and deliver components to meet the
-                schedule and quality expectations of the product owner. Write
-                code that is easy to understand and fits with existing patterns.
-                Gathering requirements, writing functional specifications, and
-                reviewing user stories and technical specifications.
+                Beyond the confines of software development, Manojkumar is known
+                for his collaborative spirit and strong communication skills. He
+                thrives in team environments, where he can exchange ideas,
+                tackle challenges head-on, and contribute to the collective
+                success of the project. His ability to translate complex
+                technical concepts into clear, understandable language makes him
+                a valuable asset in any team setting.
               </p>
               <div className="about__button d__flex align__items__center">
                 <a
